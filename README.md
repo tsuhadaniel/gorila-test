@@ -1,7 +1,5 @@
 # Gorila Back-end
 
-AWS: http://gorilatest-env.eba-jatauat5.us-east-1.elasticbeanstalk.com/
-
 ## Requirements
 
 - Docker
